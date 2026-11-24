@@ -24,3 +24,4 @@ src/
   styles/                tokens (colors/type/spacing, dark mode), base, ui, layout
 legacy/index.html        the original single-file version
 ```
+**Live site:** https://coder-st.github.io/sat-site/
