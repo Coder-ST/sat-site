@@ -1,0 +1,64 @@
+:root {
+  --font-ui: 'Inter Variable', Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-display: var(--font-ui);
+
+  --navy: #1a2744;
+  --navy-active: #263760;
+  --navy-ink-2: #c9d3ea;
+  --navy-ink-3: #8593b3;
+  --orange: #e08e66;
+  --orange-hover: #d47c52;
+  --gap: 24px;
+
+  --bg: #f4f4f5;
+  --surface: #ffffff;
+  --surface-2: #fafafa;
+  --surface-3: #eef2f7;
+  --ink: #1a2744;
+  --ink-2: #334155;
+  --ink-3: #64748b;
+  --line: #d5dae5;
+  --line-2: #c3cad8;
+
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --accent-ink: #ffffff;
+  --accent-soft: #eff4ff;
+  --accent-line: #93c5fd;
+
+  --good: #16a34a;
+  --good-soft: #ecfdf3;
+  --good-line: #bbf7d0;
+  --bad: #dc2626;
+  --bad-soft: #fef2f2;
+  --bad-line: #fecaca;
+  --warn: #b45309;
+  --warn-soft: #fef3c7;
+  --flame: #ea580c;
+  --highlight: #fef08a;
+
+  /* sharp corners with only a slight blunt edge */
+  --r-sm: 2px;
+  --r-md: 3px;
+  --r-lg: 3px;
+  --r-xl: 4px;
+
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --sp-8: 64px;
+
+  --shadow-sm: none;
+  --shadow-md: none;
+  --shadow-lg: none;
+  --ring: 0 0 0 3px rgba(37, 99, 235, 0.25);
+
+  --sidebar-w: 236px;
+  --topbar-h: 64px;
+  --content-w: 1120px;
+  --ease: ease;
+}
